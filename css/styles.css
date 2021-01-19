@@ -1,5 +1,31 @@
 /* MAIN STYLESHEET FOR MY SITE */
 
+/*
+Colour palette: https://colorhunt.co/palette/225739
+*/
+
+
 body {
-  background-color: blue;
+  margin: 0;
 }
+
+
+div {
+  background-color: #0f3057;
+}
+
+h1 {
+  margin-top: 0;
+  color: #FE0000;
+}
+
+p {
+  color: #FE0000;
+}
+
+
+/* .title-div {
+  background-color: #0f3057;
+  margin: 0;
+  color: #e7e7de
+} */
