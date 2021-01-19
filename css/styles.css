@@ -4,14 +4,9 @@
 Colour palette: https://colorhunt.co/palette/225739
 */
 
-
+/*----------TAG CSS----------*/
 body {
   margin: 0;
-}
-
-
-div {
-  background-color: #0f3057;
 }
 
 h1 {
@@ -24,7 +19,25 @@ p {
 }
 
 
-/* .title-div {
+/* ----------CLASS CSS----------*/
+.top-container {
+  background-color: #0f3057;
+  padding: 20px;
+}
+
+.middle-container {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+.bottom-container {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+}
+
+/* .top-container {
   background-color: #0f3057;
   margin: 0;
   color: #e7e7de
